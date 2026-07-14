@@ -27,7 +27,7 @@
 4. Bio:
 
 ```text
-Doctor of Physiotherapy (CGPA 3.58/4.00) | Physiotherapy House Officer @ Madina Teaching Hospital | MSK · Neuro · Post-Op Rehab | PPTA P14418 · World Physiotherapy | UK · DE · AU · NZ · CA pathway
+Doctor of Physiotherapy (CGPA 3.58/4.00) | Physiotherapy House Officer @ Madina Teaching Hospital | MSK · Neuro · Post-Op Rehab | PPTA P14418 · World Physiotherapy | Ready to adopt registration pathway on job offer abroad
 ```
 
 5. Website: `https://maliha-masud-dpt.vercel.app` (or GitHub Pages URL once live)

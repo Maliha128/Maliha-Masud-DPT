@@ -96,8 +96,7 @@ def build():
         "electrotherapy, patient education and clinical documentation across musculoskeletal, "
         "neurological and post-operative pathways. Supports multidisciplinary care and "
         "clinical teaching in physiotherapy OPD. Member of PPTA and World Physiotherapy. "
-        "Preparing international registration pathways for the UK, Germany, Australia, "
-        "New Zealand and Canada."
+        "Ready to adopt the registration pathway required for a job offer abroad."
     )
 
     pdf.section("Clinical Experience")
@@ -178,8 +177,7 @@ def build():
     pdf.bullet("Urdu - Native; English - B2 (formal IELTS/OET evidence in preparation for registration).")
     pdf.bullet("University medical/public-health camp participation; event hosting and sports club engagement.")
     pdf.bullet(
-        "International readiness: preparing recognition pathways for HCPC (UK), Ahpra/APC (Australia), "
-        "Physiotherapy Board of New Zealand, CAPR (Canada), and German Anerkennung. Willing to relocate."
+        "Ready to adopt the registration pathway required on a job offer abroad. Willing to relocate subject to visa requirements."
     )
     pdf.bullet("References available on request. Placement contact: Omer Farooq Qureshi, Management Placement Bureau, The University of Faisalabad (+92 321 5721448).")
 
