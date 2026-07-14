@@ -63,4 +63,35 @@ Built from verified facts only (see `00-VERIFIED-FACTS.md`). No invented qualifi
 
 ---
 
+## Local site
+
+```bash
+cd ~/Projects/maliha-masud-career-branding
+python3 -m http.server 5173
+```
+
+Open: http://127.0.0.1:5173/website/
+
+## GitHub
+
+Target account: **[Maliha128](https://github.com/Maliha128)**  
+Repo name: **Maliha-Masud-DPT** (GitHub does not allow spaces)
+
+Current push used the machine’s active GitHub login (`synergytravelsfsd-dotcom`). Live URL until transfer/accept:
+
+https://github.com/synergytravelsfsd-dotcom/Maliha-Masud-DPT
+
+**To place it under Maliha128:**
+1. Log in to GitHub as **Maliha128**
+2. Accept the collaborator invite for `Maliha-Masud-DPT`, **or**
+3. Run: `gh auth login` as Maliha128, then recreate/push:
+
+```bash
+cd ~/Projects/maliha-masud-career-branding
+git remote remove origin
+gh repo create "Maliha-Masud-DPT" --public --source=. --remote=origin --push
+```
+
+---
+
 *Package generated July 2026. Regulator fees and rules change — verify on official websites before applying.*
