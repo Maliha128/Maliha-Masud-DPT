@@ -72,12 +72,18 @@ python3 -m http.server 5173
 
 Open: http://127.0.0.1:5173/website/
 
+## Live site
+
+**Vercel (live now):** https://maliha-masud-dpt.vercel.app  
+
+**GitHub Pages:** https://maliha128.github.io/Maliha-Masud-DPT/  
+Enable once while logged in as Maliha128:  
+https://github.com/Maliha128/Maliha-Masud-DPT/settings/pages  
+→ Source: **GitHub Actions** (or Branch `main` + folder `/docs`) → Save  
+
 ## GitHub
 
-Live repository: **https://github.com/Maliha128/Maliha-Masud-DPT**  
-Account: **Maliha128** · Repo: **Maliha-Masud-DPT**  
-GitHub Pages: **https://maliha128.github.io/Maliha-Masud-DPT/** (enable in repo Settings → Pages)
-Vercel live site: **https://maliha-masud-dpt.vercel.app**  
+Repository: **https://github.com/Maliha128/Maliha-Masud-DPT**  
 Profile README source: `github-profile/README.md` (publish to repo `Maliha128/Maliha128`)
 
 ---
