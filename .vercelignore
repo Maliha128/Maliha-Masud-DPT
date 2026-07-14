@@ -1,0 +1,6 @@
+source-documents
+.git
+*.pdf
+.DS_Store
+node_modules
+agent-transcripts

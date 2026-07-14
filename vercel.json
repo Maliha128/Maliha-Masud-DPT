@@ -1,3 +1,19 @@
 {
-  "rewrites": [{ "source": "/", "destination": "/website/index.html" }]
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/styles.css", "destination": "/website/styles.css" },
+    { "source": "/script.js", "destination": "/website/script.js" },
+    { "source": "/assets/(.*)", "destination": "/website/assets/$1" },
+    { "source": "/", "destination": "/website/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+      ]
+    }
+  ]
 }

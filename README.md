@@ -76,7 +76,8 @@ Open: http://127.0.0.1:5173/website/
 
 Live repository: **https://github.com/Maliha128/Maliha-Masud-DPT**  
 Account: **Maliha128** · Repo: **Maliha-Masud-DPT**  
-GitHub Pages: **https://maliha128.github.io/Maliha-Masud-DPT/**  
+GitHub Pages: **https://maliha128.github.io/Maliha-Masud-DPT/** (enable in repo Settings → Pages)
+Vercel live site: **https://maliha-masud-dpt.vercel.app**  
 Profile README source: `github-profile/README.md` (publish to repo `Maliha128/Maliha128`)
 
 ---
