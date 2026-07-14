@@ -75,7 +75,9 @@ Open: http://127.0.0.1:5173/website/
 ## GitHub
 
 Live repository: **https://github.com/Maliha128/Maliha-Masud-DPT**  
-Account: **Maliha128** · Repo: **Maliha-Masud-DPT**
+Account: **Maliha128** · Repo: **Maliha-Masud-DPT**  
+GitHub Pages: **https://maliha128.github.io/Maliha-Masud-DPT/**  
+Profile README source: `github-profile/README.md` (publish to repo `Maliha128/Maliha128`)
 
 ---
 

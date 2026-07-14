@@ -176,13 +176,40 @@ a {
 .hero-content {
   position: relative;
   z-index: 1;
-  max-width: 46rem;
+  max-width: 52rem;
+}
+
+.hero-identity {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.hero-photo,
+.about-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 12px 32px rgba(15, 40, 48, 0.18);
+  flex-shrink: 0;
+}
+
+.about-photo {
+  width: 220px;
+  height: 220px;
+  float: right;
+  margin: 0 0 1rem 1.25rem;
+  border-radius: 28px;
 }
 
 .brand {
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.55rem;
   font-family: var(--font-display);
-  font-size: clamp(2rem, 5vw, 3.4rem);
+  font-size: clamp(2rem, 5vw, 3.2rem);
   font-weight: 700;
   line-height: 1.05;
   letter-spacing: -0.02em;
@@ -190,9 +217,9 @@ a {
 }
 
 .hero h1 {
-  margin: 0 0 1rem;
+  margin: 0;
   font-family: var(--font-display);
-  font-size: clamp(1.35rem, 2.6vw, 1.85rem);
+  font-size: clamp(1.2rem, 2.4vw, 1.7rem);
   font-weight: 500;
   line-height: 1.25;
   color: var(--ink);
@@ -571,6 +598,24 @@ a {
   .portfolio-grid,
   .contact-layout {
     grid-template-columns: 1fr;
+  }
+
+  .hero-identity {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-photo {
+    width: 120px;
+    height: 120px;
+  }
+
+  .about-photo {
+    float: none;
+    display: block;
+    margin: 0 0 1.25rem;
+    width: 160px;
+    height: 160px;
   }
 
   .nav-toggle {
