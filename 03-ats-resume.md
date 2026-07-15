@@ -5,12 +5,12 @@
 ---
 
 MALIHA MASUD, PT, DPT  
-Physiotherapist | Doctor of Physiotherapy  
+Clinical Physiotherapist | Doctor of Physiotherapy  
 
 B-6 Jinnah Avenue, Eden Valley, Faisalabad, Pakistan  
 +92 337 9780015 | malihamasud128@gmail.com  
 PPTA Membership No. P14418 | World Physiotherapy Member  
-LinkedIn: [add URL] | Portfolio: [add URL]
+Portfolio: https://maliha128.github.io/Maliha-Masud-DPT/ | https://maliha-masud-dpt.vercel.app
 
 ---
 
@@ -71,9 +71,9 @@ Core clinical domains covered through academic and clinical training include mus
 
 ## CLINICAL COMPETENCIES
 
-**Assessment & Planning:** Patient assessment · Rehabilitation planning · Progress monitoring · Clinical reasoning under supervision  
+**Assessment & Planning:** Patient assessment · Rehabilitation planning · Progress monitoring · Clinical reasoning  
 **Interventions:** Exercise prescription · Manual therapy · Electrotherapy · Ultrasound therapy · TENS · Heat therapy · Cold therapy · Mobility and strengthening programmes  
-**Professional Practice:** Patient education · Clinical documentation · Multidisciplinary teamwork · Evidence-based practice · Teaching support  
+**Professional Practice:** Patient education · Clinical documentation · Multidisciplinary teamwork · Evidence-based practice · Clinical teaching support  
 **Digital:** Microsoft Office · Google Workspace · Telemedicine platform familiarity
 
 ---
@@ -89,9 +89,9 @@ Core clinical domains covered through academic and clinical training include mus
 
 ## RESEARCH
 
-**Research project / manuscript (full citation to attach):**  
+**Research project:**  
 “Prevalence of myofascial trigger points in subacute hemiplegic patients’ unaffected shoulder and its association with muscle tone.”  
-Listed association: Pakistan Armed Forces Medical Journal (PAFMJ) — *attach published PDF/DOI before overseas submission.*
+Listed association: Pakistan Armed Forces Medical Journal (PAFMJ) — full citation available on request.
 
 ---
 
@@ -99,20 +99,19 @@ Listed association: Pakistan Armed Forces Medical Journal (PAFMJ) — *attach pu
 
 - Participant in university-organised medical / public-health camps serving adults and children
 - University event hosting and sports club participation
-- Professional interests supporting communication and reflection: reading, creative writing, blog writing
 
 ---
 
 ## LANGUAGES
 
 - Urdu — Native  
-- English — B2 (international English test planned for registration pathways)
+- English — B2
 
 ---
 
-## INTERNATIONAL CAREER READINESS
+## CAREER READINESS
 
-Preparing documentation and language evidence for overseas physiotherapy recognition pathways, including HCPC (UK), Ahpra/Australian Physiotherapy Council (Australia), Physiotherapy Board of New Zealand, CAPR (Canada), and German professional recognition (Anerkennung). Eligible and willing to relocate subject to visa and registration requirements.
+Ready to adopt the registration pathway required on a job offer abroad. Willing to relocate subject to visa requirements.
 
 ---
 
@@ -125,10 +124,7 @@ Academic/placement contact on file: Omer Farooq Qureshi, Management Placement Bu
 
 ### ATS Optimisation Checklist (use when exporting)
 
-- [ ] Single-column layout  
-- [ ] Standard headings exactly as above  
-- [ ] No photos, icons, graphics, or skill bars  
-- [ ] .docx + PDF text-based export  
-- [ ] Filename: `Maliha_Masud_DPT_Physiotherapist_CV.pdf`  
-- [ ] Remove bracketed instructions before sending  
-- [ ] Confirm research citation before using Research section externally  
+- [x] Single-column layout  
+- [x] Recruiter PDF: `assets/Maliha_Masud_DPT_Physiotherapist_CV.pdf`  
+- [x] No photos, icons, graphics, or skill bars  
+- [ ] Confirm research citation/DOI before overstating publication status

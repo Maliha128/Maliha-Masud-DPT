@@ -4,8 +4,12 @@
 from pathlib import Path
 from fpdf import FPDF
 
-OUT = Path(__file__).resolve().parents[1] / "assets" / "Maliha_Masud_DPT_Physiotherapist_CV.pdf"
-OUT.parent.mkdir(parents=True, exist_ok=True)
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "assets" / "Maliha_Masud_DPT_Physiotherapist_CV.pdf"
+COPIES = [
+    ROOT / "website" / "assets" / "Maliha_Masud_DPT_Physiotherapist_CV.pdf",
+    ROOT / "docs" / "assets" / "Maliha_Masud_DPT_Physiotherapist_CV.pdf",
+]
 
 
 class CVPDF(FPDF):
@@ -17,10 +21,16 @@ class CVPDF(FPDF):
     def header_block(self):
         self.set_font("Helvetica", "B", 16)
         self.set_text_color(15, 28, 36)
-        self.cell(0, 7, "MALIHA MASUD, PT, DPT", ln=True)
+        self.cell(0, 7, "MALIHA MASUD, PT, DPT", new_x="LMARGIN", new_y="NEXT")
         self.set_font("Helvetica", "", 10)
         self.set_text_color(15, 110, 122)
-        self.cell(0, 5, "Physiotherapist  |  Doctor of Physiotherapy", ln=True)
+        self.cell(
+            0,
+            5,
+            "Clinical Physiotherapist  |  Doctor of Physiotherapy",
+            new_x="LMARGIN",
+            new_y="NEXT",
+        )
         self.ln(1.5)
         self.set_draw_color(15, 110, 122)
         self.set_line_width(0.4)
@@ -33,8 +43,9 @@ class CVPDF(FPDF):
             4,
             "B-6 Jinnah Avenue, Eden Valley, Faisalabad, Pakistan\n"
             "+92 337 9780015  |  malihamasud128@gmail.com\n"
-            "PPTA Member P14418  |  World Physiotherapy  |  "
-            "Portfolio: maliha-masud-dpt.vercel.app",
+            "PPTA Member P14418  |  World Physiotherapy\n"
+            "Portfolio: https://maliha128.github.io/Maliha-Masud-DPT/  |  "
+            "https://maliha-masud-dpt.vercel.app",
         )
         self.ln(2)
 
@@ -42,7 +53,7 @@ class CVPDF(FPDF):
         self.ln(1.5)
         self.set_font("Helvetica", "B", 10)
         self.set_text_color(15, 28, 36)
-        self.cell(0, 5.5, title.upper(), ln=True)
+        self.cell(0, 5.5, title.upper(), new_x="LMARGIN", new_y="NEXT")
         self.set_draw_color(197, 220, 227)
         self.set_line_width(0.3)
         y = self.get_y()
@@ -58,17 +69,16 @@ class CVPDF(FPDF):
     def job(self, role: str, org: str, dates: str):
         self.set_font("Helvetica", "B", 9.5)
         self.set_text_color(15, 28, 36)
-        self.cell(0, 4.5, role, ln=True)
+        self.cell(0, 4.5, role, new_x="LMARGIN", new_y="NEXT")
         self.set_font("Helvetica", "", 8.5)
         self.set_text_color(15, 110, 122)
-        self.cell(0, 4, f"{org}  |  {dates}", ln=True)
+        self.cell(0, 4, f"{org}  |  {dates}", new_x="LMARGIN", new_y="NEXT")
         self.ln(0.6)
 
     def bullet(self, text: str):
         self.set_font("Helvetica", "", 8.8)
         self.set_text_color(30, 40, 48)
-        x = self.l_margin
-        self.set_x(x)
+        self.set_x(self.l_margin)
         self.cell(4, 3.9, "-")
         self.multi_cell(self.w - self.l_margin - self.r_margin - 4, 3.9, text)
         self.ln(0.3)
@@ -76,7 +86,7 @@ class CVPDF(FPDF):
     def edu(self, title: str, detail: str):
         self.set_font("Helvetica", "B", 9)
         self.set_text_color(15, 28, 36)
-        self.cell(0, 4.2, title, ln=True)
+        self.cell(0, 4.2, title, new_x="LMARGIN", new_y="NEXT")
         self.set_font("Helvetica", "", 8.5)
         self.set_text_color(61, 85, 99)
         self.multi_cell(0, 3.9, detail)
@@ -108,7 +118,7 @@ def build():
     )
     for item in [
         "Evaluate neuromuscular and musculoskeletal conditions while managing tailored rehabilitation protocols for diverse patient demographics.",
-        "Restore functional mobility through therapeutic exercise, mobility training, manual therapy and modality-based care.",
+        "Restore functional mobility through therapeutic exercise, mobility training, manual therapy and modality-based care across MSK, neurological and post-operative pathways.",
         "Apply electrotherapy and physical agents as indicated (ultrasound, TENS, heat and cold therapy).",
         "Educate patients and caregivers on posture, activity modification, home exercise programmes and prevention strategies.",
         "Maintain accurate clinical documentation and progress notes to support continuity of care.",
@@ -124,7 +134,7 @@ def build():
     )
     for item in [
         "Provided clinical instructional guidance, bedside assessment protocols and procedural demonstrations for students and junior clinical interns.",
-        "Reinforced professional communication, patient dignity and safe handling practices during supervised teaching encounters.",
+        "Reinforced professional communication, patient dignity and safe handling practices during teaching encounters.",
     ]:
         pdf.bullet(item)
 
@@ -145,22 +155,25 @@ def build():
     )
 
     pdf.section("Professional Membership")
-    pdf.bullet("Pakistan Physical Therapy Association (PPTA) - Membership No. P14418 (Dec 2024 - 31 Dec 2029)")
+    pdf.bullet(
+        "Pakistan Physical Therapy Association (PPTA) - Membership No. P14418 "
+        "(Dec 2024 - 31 Dec 2029)"
+    )
     pdf.bullet("World Physiotherapy - Member through PPTA national membership")
 
     pdf.section("Clinical Competencies")
     pdf.body(
-        "Assessment & Planning: patient assessment, rehabilitation planning, progress monitoring, supervised clinical reasoning.\n"
+        "Assessment & Planning: patient assessment, rehabilitation planning, progress monitoring, clinical reasoning.\n"
         "Interventions: exercise prescription, manual therapy, electrotherapy, ultrasound, TENS, heat/cold therapy, mobility and strengthening programmes.\n"
-        "Professional Practice: patient education, clinical documentation, multidisciplinary teamwork, evidence-based practice, teaching support.\n"
+        "Professional Practice: patient education, clinical documentation, multidisciplinary teamwork, evidence-based practice, clinical teaching support.\n"
         "Digital: Microsoft Office, Google Workspace, telemedicine platform familiarity."
     )
 
     pdf.section("Continuing Professional Development")
     for item in [
-        "Advanced Dry Needling Techniques - one-day hands-on workshop, The University of Faisalabad (29 Sep 2023).",
-        "Comprehensive Neurological Assessment and Differential Diagnosis of Stroke and Cerebral Palsy - workshop participation.",
-        "Spinal Mobilisation Concepts (Kaltenborn, Maitland, Mulligan frameworks) - workshop participation.",
+        "Advanced Dry Needling Techniques - one-day hands-on workshop, Department of Rehabilitation Sciences, The University of Faisalabad (29 Sep 2023).",
+        "Comprehensive Neurological Assessment and Differential Diagnosis of Stroke and Cerebral Palsy - one-day workshop (participation).",
+        "Spinal Mobilisation: Integrating Kaltenborn, Maitland and Mulligan Concepts for Nerve Mobility Enhancement - workshop participation.",
         "Online CPD: Low Back Pain and Pelvic Floor Dysfunction.",
     ]:
         pdf.bullet(item)
@@ -174,14 +187,25 @@ def build():
     )
 
     pdf.section("Languages & Additional Information")
-    pdf.bullet("Urdu - Native; English - B2 (formal IELTS/OET evidence in preparation for registration).")
-    pdf.bullet("University medical/public-health camp participation; event hosting and sports club engagement.")
+    pdf.bullet("Urdu - Native; English - B2.")
+    pdf.bullet(
+        "University medical/public-health camp participation; university event hosting and sports club engagement."
+    )
     pdf.bullet(
         "Ready to adopt the registration pathway required on a job offer abroad. Willing to relocate subject to visa requirements."
     )
-    pdf.bullet("References available on request. Placement contact: Omer Farooq Qureshi, Management Placement Bureau, The University of Faisalabad (+92 321 5721448).")
+    pdf.bullet(
+        "References available on request. Placement contact: Omer Farooq Qureshi, "
+        "Management Placement Bureau, The University of Faisalabad (+92 321 5721448)."
+    )
 
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     pdf.output(str(OUT))
+    data = OUT.read_bytes()
+    for dest in COPIES:
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_bytes(data)
+        print(f"Copied {dest}")
     print(f"Wrote {OUT}")
 
 
