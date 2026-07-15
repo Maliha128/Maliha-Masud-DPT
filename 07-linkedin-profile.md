@@ -5,19 +5,19 @@
 ## Headline (220 characters max — pick one)
 
 **Primary (recommended):**  
-Doctor of Physiotherapy (DPT) | Physiotherapy House Officer @ Madina Teaching Hospital | MSK · Neuro · Post-Op Rehab | PPTA & World Physiotherapy | Open to UK · DE · AU · NZ · CA
+Doctor of Physiotherapy (DPT) | Clinical Physiotherapist @ Madina Teaching Hospital | MSK · Neuro · Post-Op Rehab | PPTA & World Physiotherapy | Ready for registration pathway on job offer abroad
 
 **NHS-focused:**  
-Physiotherapist (DPT) | Teaching-Hospital Clinical Intern | Musculoskeletal & Neurological Rehabilitation | Preparing HCPC Pathway | NHS-Oriented
+Physiotherapist (DPT) | Clinical Physiotherapist | Musculoskeletal & Neurological Rehabilitation | Internationally mobile
 
 **Academic/clinical hybrid:**  
-DPT · Clinical Physiotherapist Intern · Clinical Teaching Support · Evidence-Informed Rehabilitation · International Registration Pathway
+DPT · Clinical Physiotherapist · Clinical Teaching Support · Evidence-Informed Rehabilitation · International Registration Pathway
 
 ---
 
 ## About
 
-Early-career physiotherapist with a Doctor of Physiotherapy (DPT) from The University of Faisalabad (CGPA 3.58/4.00) and supervised clinical practice as a Physiotherapy House Officer at Madina Teaching Hospital, Faisalabad.
+Early-career physiotherapist with a Doctor of Physiotherapy (DPT) from The University of Faisalabad (CGPA 3.58/4.00) and supervised clinical practice as a Clinical Physiotherapist at Madina Teaching Hospital, Faisalabad.
 
 I work across musculoskeletal, neurological and post-operative rehabilitation—focusing on thorough assessment, rehabilitation planning, exercise prescription, manual therapy, electrotherapy modalities, patient education and precise clinical documentation within a multidisciplinary teaching-hospital team.
 
@@ -25,7 +25,7 @@ I have also supported clinical teaching in the physiotherapy outpatient departme
 
 I am a member of the Pakistan Physical Therapy Association (Membership No. P14418) and World Physiotherapy. My CPD includes workshops in neurological assessment, spinal mobilisation concepts, and dry-needling techniques, plus online learning in low back pain and pelvic floor dysfunction.
 
-I am building an internationally competitive profile for physiotherapy practice pathways in the United Kingdom, Germany, Australia, New Zealand and Canada—prioritising registration readiness, English language evidence, ethical scope of practice, and patient-centred care.
+I am building an internationally competitive profile and am ready to adopt the registration pathway required for a job offer abroad—prioritising English language evidence, ethical scope of practice, and patient-centred care.
 
 **Open to:** supervised / graduate physiotherapy roles, international credentialling conversations, mentoring on registration pathways, and professional collaboration in rehabilitation.
 
@@ -35,8 +35,8 @@ I am building an internationally competitive profile for physiotherapy practice 
 
 ## Experience
 
-### Physiotherapy House Officer (Intern)  
-**Madina Teaching Hospital** · Full-time / Internship  
+### Clinical Physiotherapist  
+**Madina Teaching Hospital** · Full-time  
 Dec 2024 – Present · Faisalabad, Pakistan
 
 - Provide supervised physiotherapy assessment and rehabilitation support for musculoskeletal, neurological and post-operative caseloads  

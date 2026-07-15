@@ -5,7 +5,7 @@
 ---
 
 ### 1. Tell us about yourself.
-I am Maliha Masud, a Doctor of Physiotherapy graduate from The University of Faisalabad with a CGPA of 3.58/4.00. Since December 2024 I have been a Physiotherapy House Officer at Madina Teaching Hospital, working under supervision across musculoskeletal, neurological and post-operative rehabilitation. I focus on thorough assessment, exercise-based rehabilitation, appropriate manual therapy and modality use, clear patient education and accurate documentation within a multidisciplinary team. I also supported clinical teaching in OPD. I am preparing international registration and English evidence for practice pathways in countries such as the UK, Germany, Australia, New Zealand and Canada.
+I am Maliha Masud, a Doctor of Physiotherapy graduate from The University of Faisalabad with a CGPA of 3.58/4.00. Since December 2024 I have been a Clinical Physiotherapist at Madina Teaching Hospital, practising across musculoskeletal, neurological and post-operative rehabilitation. I focus on thorough assessment, exercise-based rehabilitation, appropriate manual therapy and modality use, clear patient education and accurate documentation within a multidisciplinary team. I also supported clinical teaching in OPD. I am preparing English evidence and am ready to adopt the registration pathway required for a job offer abroad.
 
 ### 2. Why physiotherapy?
 I chose physiotherapy because it combines clinical science with practical problem-solving that restores people’s independence. I am motivated by measurable functional change—mobility, confidence, return to daily activity—achieved through assessment, exercise and education rather than passive care alone.

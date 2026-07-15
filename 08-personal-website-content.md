@@ -11,7 +11,7 @@
 **Maliha Masud, PT, DPT**  
 Doctor of Physiotherapy · Teaching-Hospital Clinician
 
-Early-career physiotherapist delivering supervised musculoskeletal, neurological and post-operative rehabilitation at Madina Teaching Hospital—building an internationally ready professional profile for the United Kingdom, Germany, Australia, New Zealand and Canada.
+Clinical Physiotherapist delivering musculoskeletal, neurological and post-operative rehabilitation at Madina Teaching Hospital. Ready to adopt the registration pathway required for a job offer abroad.
 
 [View Clinical Profile] [Download CV] [Contact]
 
@@ -20,14 +20,14 @@ Evidence-informed assessment. Clear patient education. Disciplined documentation
 
 ### Home strip (3 points only)
 1. DPT, CGPA 3.58/4.00 — The University of Faisalabad  
-2. Physiotherapy House Officer — Madina Teaching Hospital  
-3. International registration pathway in progress  
+2. Clinical Physiotherapist — Madina Teaching Hospital  
+3. Ready to adopt registration pathway on job offer abroad  
 
 ---
 
 ## ABOUT
 
-I am Maliha Masud, a Doctor of Physiotherapy graduate and Physiotherapy House Officer at Madina Teaching Hospital in Faisalabad, Pakistan. My clinical work focuses on helping patients regain movement, function and confidence after musculoskeletal injury, neurological impairment and surgery.
+I am Maliha Masud, a Doctor of Physiotherapy graduate and Clinical Physiotherapist at Madina Teaching Hospital in Faisalabad, Pakistan. My clinical work focuses on helping patients regain movement, function and confidence after musculoskeletal injury, neurological impairment and surgery.
 
 I trained at The University of Faisalabad (2019–2024), graduating with a CGPA of 3.58/4.00. In practice I emphasise careful assessment, progressive exercise prescription, appropriate use of manual therapy and physical agents, and education that patients can actually follow at home.
 
@@ -51,7 +51,7 @@ I am preparing for international physiotherapy recognition pathways and welcome 
 
 ## EXPERIENCE
 
-### Physiotherapy House Officer (Intern)  
+### Clinical Physiotherapist  
 Madina Teaching Hospital · Dec 2024–Present  
 Supervised clinical care across MSK, neurological and post-operative pathways: assessment, rehabilitation planning, exercise therapy, manual therapy, electrotherapy modalities, documentation and multidisciplinary collaboration.
 
@@ -93,7 +93,7 @@ Kindergarten Muslim Girls High School · Grade A
 - PPTA membership certificate  
 - CPD / workshop certificates  
 - Clinical competency matrix  
-- Registration roadmap (HCPC · Ahpra · CAPR · NZ · Germany)  
+- Credential dossier and registration-readiness materials  
 - Research summary (citation pending confirmation)  
 - References (available on request)
 

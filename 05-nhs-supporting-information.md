@@ -8,7 +8,7 @@
 
 ## Supporting Information
 
-I am applying for this physiotherapy role because I want to practise within a system that places patient safety, dignity and evidence-based rehabilitation at the centre of care. I am a Doctor of Physiotherapy graduate from The University of Faisalabad (CGPA 3.58/4.00) and currently work as a Physiotherapy House Officer at Madina Teaching Hospital, a teaching-hospital environment where assessment, rehabilitation planning, documentation and multidisciplinary collaboration are part of daily practice. I am preparing my pathway to HCPC registration and appropriate English language evidence, and I am committed to meeting UK professional standards before using the protected title of Physiotherapist in independent practice.
+I am applying for this physiotherapy role because I want to practise within a system that places patient safety, dignity and evidence-based rehabilitation at the centre of care. I am a Doctor of Physiotherapy graduate from The University of Faisalabad (CGPA 3.58/4.00) and currently work as a Clinical Physiotherapist at Madina Teaching Hospital, a teaching-hospital environment where I evaluate neuromuscular/MSK conditions, manage tailored rehabilitation protocols, and maintain documentation within multidisciplinary collaboration. I am preparing my pathway to HCPC registration and appropriate English language evidence, and I am committed to meeting UK professional standards before using the protected title of Physiotherapist in independent practice.
 
 ### Compassion
 
@@ -49,7 +49,7 @@ I am a member of the Pakistan Physical Therapy Association (membership number P1
 I would welcome the opportunity to contribute to your team, learn within NHS structures, and deliver physiotherapy that is safe, compassionate and clinically effective.
 
 **Maliha Masud, PT, DPT**  
-Physiotherapy House Officer, Madina Teaching Hospital  
+Clinical Physiotherapist, Madina Teaching Hospital  
 malihamasud128@gmail.com | +92 337 9780015
 
 ---

@@ -23,7 +23,7 @@
 
 ## WORK EXPERIENCE
 
-### Physiotherapy House Officer (Intern)  
+### Clinical Physiotherapist  
 **18/12/2024 – Present**  
 **Madina Teaching Hospital (MTH), Faisalabad (Pakistan)**  
 *Healthcare — Teaching hospital physiotherapy service*
