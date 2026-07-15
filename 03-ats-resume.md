@@ -16,30 +16,28 @@ LinkedIn: [add URL] | Portfolio: [add URL]
 
 ## PROFESSIONAL SUMMARY
 
-Early-career Doctor of Physiotherapy (DPT, CGPA 3.58/4.00) with supervised clinical practice as a Physiotherapy House Officer at Madina Teaching Hospital. Delivers patient assessment, rehabilitation planning, exercise prescription, manual therapy, electrotherapy, patient education and clinical documentation across musculoskeletal, neurological and post-operative pathways. Experienced in multidisciplinary collaboration and supporting clinical teaching in physiotherapy OPD. Member of Pakistan Physical Therapy Association and World Physiotherapy. Seeking internationally aligned physiotherapy roles while completing registration and English-language requirements for the United Kingdom, Germany, Australia, New Zealand and Canada.
+Early-career Doctor of Physiotherapy (DPT, CGPA 3.58/4.00) practising as a Clinical Physiotherapist at Madina Teaching Hospital. Evaluates neuromuscular and musculoskeletal conditions, manages tailored rehabilitation protocols, and delivers assessment, exercise prescription, manual therapy, electrotherapy, patient education and clinical documentation across musculoskeletal, neurological and post-operative pathways. Experienced in multidisciplinary collaboration and lectureship support in physiotherapy OPD. Member of Pakistan Physical Therapy Association and World Physiotherapy. Ready to adopt the registration pathway required for a job offer abroad.
 
 ---
 
 ## CLINICAL EXPERIENCE
 
-### Physiotherapy House Officer (Intern)  
+### Clinical Physiotherapist  
 **Madina Teaching Hospital (MTH)** — Faisalabad, Pakistan  
-**December 2024 – Present**
+**18 December 2024 – Present**
 
-- Conduct supervised physiotherapy assessments for patients presenting with musculoskeletal, neurological and post-operative conditions.
-- Contribute to individualised rehabilitation plans incorporating therapeutic exercise, functional mobility training, manual therapy techniques and modality-based interventions.
-- Apply electrotherapy and physical agents as clinically indicated, including ultrasound therapy, TENS, heat therapy and cold therapy, under clinical supervision.
+- Evaluate neuromuscular and musculoskeletal conditions while managing tailored rehabilitation protocols for diverse patient demographics.
+- Restore functional mobility through therapeutic exercise, mobility training, manual therapy and modality-based interventions.
+- Apply electrotherapy and physical agents as clinically indicated, including ultrasound therapy, TENS, heat therapy and cold therapy.
 - Educate patients and caregivers on posture, activity modification, home exercise programmes and secondary prevention strategies.
 - Maintain accurate clinical documentation and progress notes aligned with hospital standards and continuity of care.
-- Collaborate with physicians, nurses and allied colleagues within a multidisciplinary teaching-hospital environment to support safe, coordinated rehabilitation.
-- Monitor patient response to intervention and communicate clinical changes to the supervising team.
+- Collaborate with physicians, nurses and allied colleagues within a multidisciplinary teaching-hospital environment.
 
-### Clinical Teaching Support — Physiotherapy OPD  
+### Lectureship — Physiotherapy OPD  
 **Madina Teaching Hospital (MTH)** — Faisalabad, Pakistan  
-**October 2025 – May 2026**
+**27 October 2025 – 27 May 2026**
 
-- Supported clinical instructional activities for physiotherapy students and junior interns in the outpatient department.
-- Demonstrated bedside assessment approaches and procedural techniques consistent with departmental protocols.
+- Provided clinical instructional guidance, bedside assessment protocols and procedural demonstrations for students and junior clinical interns.
 - Reinforced professional communication, patient dignity and safe handling practices during supervised teaching encounters.
 
 ---

@@ -41,8 +41,8 @@ Student / degree identifier observed on file names: **DPT-FA-19-193** / **DPT-FA
 
 | Role | Organisation | Dates | Notes |
 |---|---|---|---|
-| Physiotherapy House Officer / Clinical Physiotherapist (Intern) | Madina Teaching Hospital (MTH), Faisalabad | 18 Dec 2024 – Present | Musculoskeletal, neurological, post-operative rehabilitation; assessment; exercise prescription; manual therapy; electrotherapy; patient education; documentation; MDT collaboration |
-| Lectureship / clinical teaching support, Physio OPD | Madina Teaching Hospital (MTH) | 27 Oct 2025 – 27 May 2026 | Instructional guidance, bedside assessment protocols, procedural demonstrations for students and junior interns |
+| Clinical Physiotherapist | Madina Teaching Hospital (MTH), Faisalabad | 18 Dec 2024 – Present | Neuromuscular and musculoskeletal evaluation; tailored rehabilitation protocols; functional mobility restoration; MSK/neuro/post-op care; exercise; manual therapy; electrotherapy; patient education; documentation; MDT collaboration |
+| Lectureship — Physiotherapy OPD | Madina Teaching Hospital (MTH) | 27 Oct 2025 – 27 May 2026 | Clinical instructional guidance, bedside assessment protocols, procedural demonstrations for students and junior clinical interns |
 
 Hospital name used on verified CVs: **Madina Teaching Hospital** (also written Medina in some materials). Standardise to **Madina Teaching Hospital (MTH)** internationally.
 

@@ -90,25 +90,26 @@ def build():
 
     pdf.section("Professional Summary")
     pdf.body(
-        "Early-career Doctor of Physiotherapy (CGPA 3.58/4.00) with supervised clinical "
-        "practice as a Physiotherapy House Officer at Madina Teaching Hospital. Delivers "
-        "assessment, rehabilitation planning, exercise prescription, manual therapy, "
-        "electrotherapy, patient education and clinical documentation across musculoskeletal, "
-        "neurological and post-operative pathways. Supports multidisciplinary care and "
-        "clinical teaching in physiotherapy OPD. Member of PPTA and World Physiotherapy. "
-        "Ready to adopt the registration pathway required for a job offer abroad."
+        "Early-career Doctor of Physiotherapy (CGPA 3.58/4.00) practising as a Clinical "
+        "Physiotherapist at Madina Teaching Hospital. Evaluates neuromuscular and "
+        "musculoskeletal conditions, manages tailored rehabilitation protocols, and "
+        "delivers assessment, exercise prescription, manual therapy, electrotherapy, "
+        "patient education and clinical documentation across musculoskeletal, neurological "
+        "and post-operative pathways. Supports multidisciplinary care and clinical teaching "
+        "in physiotherapy OPD. Member of PPTA and World Physiotherapy. Ready to adopt the "
+        "registration pathway required for a job offer abroad."
     )
 
     pdf.section("Clinical Experience")
     pdf.job(
-        "Physiotherapy House Officer (Intern)",
+        "Clinical Physiotherapist",
         "Madina Teaching Hospital (MTH), Faisalabad, Pakistan",
-        "Dec 2024 - Present",
+        "18 Dec 2024 - Present",
     )
     for item in [
-        "Conduct supervised physiotherapy assessments for musculoskeletal, neurological and post-operative presentations.",
-        "Contribute to individualised rehabilitation plans using therapeutic exercise, mobility training, manual therapy and modality-based care.",
-        "Apply electrotherapy and physical agents as indicated (ultrasound, TENS, heat and cold therapy) under clinical supervision.",
+        "Evaluate neuromuscular and musculoskeletal conditions while managing tailored rehabilitation protocols for diverse patient demographics.",
+        "Restore functional mobility through therapeutic exercise, mobility training, manual therapy and modality-based care.",
+        "Apply electrotherapy and physical agents as indicated (ultrasound, TENS, heat and cold therapy).",
         "Educate patients and caregivers on posture, activity modification, home exercise programmes and prevention strategies.",
         "Maintain accurate clinical documentation and progress notes to support continuity of care.",
         "Collaborate with physicians, nurses and allied colleagues in a multidisciplinary teaching-hospital environment.",
@@ -117,14 +118,13 @@ def build():
 
     pdf.ln(1)
     pdf.job(
-        "Clinical Teaching Support - Physiotherapy OPD",
+        "Lectureship - Physiotherapy OPD",
         "Madina Teaching Hospital (MTH), Faisalabad, Pakistan",
-        "Oct 2025 - May 2026",
+        "27 Oct 2025 - 27 May 2026",
     )
     for item in [
-        "Supported clinical instructional activities for physiotherapy students and junior interns.",
-        "Demonstrated bedside assessment approaches and procedural techniques consistent with departmental protocols.",
-        "Reinforced professional communication, patient dignity and safe handling practices during supervised teaching.",
+        "Provided clinical instructional guidance, bedside assessment protocols and procedural demonstrations for students and junior clinical interns.",
+        "Reinforced professional communication, patient dignity and safe handling practices during supervised teaching encounters.",
     ]:
         pdf.bullet(item)
 
