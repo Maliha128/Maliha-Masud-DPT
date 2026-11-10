@@ -129,10 +129,10 @@ a {
 
 .hero {
   position: relative;
-  min-height: 100vh;
+  min-height: 100svh;
   display: grid;
-  align-items: end;
-  padding: 7.5rem 1.5rem 4rem;
+  align-items: center;
+  padding: 6.5rem 1.5rem 3rem;
   overflow: hidden;
 }
 
@@ -501,7 +501,7 @@ a {
   z-index: 80;
   display: grid;
   place-items: center;
-  padding: 1rem;
+  padding: max(1rem, env(safe-area-inset-top)) max(1rem, env(safe-area-inset-right)) max(1rem, env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left));
 }
 
 .modal-backdrop {
@@ -724,29 +724,7 @@ a {
   50% { transform: scale(1.08); opacity: 1; }
 }
 
-@media (max-width: 900px) {
-  .credential-card {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .credential-actions {
-    width: 100%;
-  }
-
-  .credential-actions .btn {
-    flex: 1 1 auto;
-    text-align: center;
-  }
-
-  .site-header {
-    padding: 0.85rem 1rem;
-  }
-
-  .logo {
-    font-size: 1.05rem;
-  }
-
+@media (max-width: 1100px) {
   .nav-toggle {
     display: inline-block;
   }
@@ -779,11 +757,44 @@ a {
   .nav a:active {
     background: rgba(15, 110, 122, 0.08);
   }
+}
+
+@media (max-width: 900px) {
+  .credential-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .credential-actions {
+    width: 100%;
+  }
+
+  .credential-actions .btn {
+    flex: 1 1 auto;
+    text-align: center;
+  }
+
+  .site-header {
+    padding: 0.85rem 1rem;
+  }
+
+  .logo {
+    font-size: 1.05rem;
+  }
 
   .hero {
     min-height: auto;
     padding: 5.5rem 1rem 2.5rem;
     align-items: start;
+  }
+
+  .modal-panel,
+  .modal-panel-wide {
+    width: 100%;
+  }
+
+  .credential-frame {
+    height: min(55vh, 480px);
   }
 
   .hero-identity {
