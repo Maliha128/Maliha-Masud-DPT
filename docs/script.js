@@ -26,6 +26,16 @@ const CREDENTIALS = {
     file: "assets/credentials/PPTA_Certificate_of_Good_Standing.pdf",
     downloadName: "Maliha_Masud_PPTA_Certificate_of_Good_Standing.pdf",
   },
+  intermediate: {
+    title: "Intermediate Certificate (HSSC)",
+    file: "assets/credentials/HSSC_Intermediate_Certificate.pdf",
+    downloadName: "Maliha_Masud_HSSC_Intermediate_Certificate.pdf",
+  },
+  matric: {
+    title: "Matriculation Certificate (SSC)",
+    file: "assets/credentials/SSC_Matriculation_Certificate.pdf",
+    downloadName: "Maliha_Masud_SSC_Matriculation_Certificate.pdf",
+  },
 };
 
 const REQUEST_EMAIL = "malihamasud128@gmail.com";
