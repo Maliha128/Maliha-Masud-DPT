@@ -20,6 +20,7 @@
       <a href="#interests">Clinical Interests</a>
       <a href="#experience">Experience</a>
       <a href="#membership">Membership</a>
+      <a href="#credentials">Credentials</a>
       <a href="#education">Education</a>
       <a href="#contact">Contact</a>
     </nav>
@@ -131,6 +132,56 @@
       </div>
     </section>
 
+    <section class="section credentials" id="credentials">
+      <div class="section-inner">
+        <p class="eyebrow">Verified Documents</p>
+        <h2>Credentials on request</h2>
+        <p class="section-intro">View official documents on this page. Downloads are released only after you submit verified requester details (contact number, email, institution or organisation, and purpose).</p>
+        <ul class="credential-list">
+          <li class="credential-card reveal" data-credential="degree">
+            <div>
+              <h3>DPT Degree (HEC)</h3>
+              <p>Doctor of Physiotherapy degree attestation / HEC document.</p>
+            </div>
+            <div class="credential-actions">
+              <button type="button" class="btn btn-secondary" data-view-credential="degree">View</button>
+              <button type="button" class="btn btn-primary" data-request-download="degree">Request download</button>
+            </div>
+          </li>
+          <li class="credential-card reveal" data-credential="transcript">
+            <div>
+              <h3>DPT Transcript (HEC)</h3>
+              <p>Academic transcript with HEC attestation.</p>
+            </div>
+            <div class="credential-actions">
+              <button type="button" class="btn btn-secondary" data-view-credential="transcript">View</button>
+              <button type="button" class="btn btn-primary" data-request-download="transcript">Request download</button>
+            </div>
+          </li>
+          <li class="credential-card reveal" data-credential="membership">
+            <div>
+              <h3>PPTA Membership</h3>
+              <p>Pakistan Physical Therapy Association membership record (P14418).</p>
+            </div>
+            <div class="credential-actions">
+              <button type="button" class="btn btn-secondary" data-view-credential="membership">View</button>
+              <button type="button" class="btn btn-primary" data-request-download="membership">Request download</button>
+            </div>
+          </li>
+          <li class="credential-card reveal" data-credential="good-standing">
+            <div>
+              <h3>PPTA Certificate of Good Standing</h3>
+              <p>Official good-standing certification from PPTA.</p>
+            </div>
+            <div class="credential-actions">
+              <button type="button" class="btn btn-secondary" data-view-credential="good-standing">View</button>
+              <button type="button" class="btn btn-primary" data-request-download="good-standing">Request download</button>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+
     <section class="section education" id="education">
       <div class="section-inner">
         <p class="eyebrow">Education</p>
@@ -213,6 +264,58 @@
       </nav>
     </div>
   </footer>
+
+  <div class="modal" id="credential-view-modal" hidden data-view-modal>
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel modal-panel-wide" role="dialog" aria-modal="true" aria-labelledby="credential-view-title">
+      <div class="modal-header">
+        <h3 id="credential-view-title">Document preview</h3>
+        <button type="button" class="modal-close" data-close-modal aria-label="Close preview">×</button>
+      </div>
+      <iframe class="credential-frame" title="Credential document preview" data-view-frame src="about:blank"></iframe>
+      <p class="modal-note">Preview only. Use Request download and submit requester details to obtain a file copy.</p>
+    </div>
+  </div>
+
+  <div class="modal" id="credential-download-modal" hidden data-download-modal>
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="credential-download-title">
+      <div class="modal-header">
+        <h3 id="credential-download-title">Request document download</h3>
+        <button type="button" class="modal-close" data-close-modal aria-label="Close download request">×</button>
+      </div>
+      <p class="modal-lead">Provide verified details for the person or organisation requesting this document. A download is released only after these fields are completed and submitted.</p>
+      <form class="download-form" data-download-form>
+        <input type="hidden" name="document" data-download-document value="" />
+        <label>
+          Full name
+          <input type="text" name="fullName" required autocomplete="name" />
+        </label>
+        <label>
+          Email
+          <input type="email" name="email" required autocomplete="email" />
+        </label>
+        <label>
+          Contact number
+          <input type="tel" name="phone" required autocomplete="tel" />
+        </label>
+        <label>
+          Institution or organisation
+          <input type="text" name="organisation" required autocomplete="organization" />
+        </label>
+        <label>
+          Purpose of download
+          <textarea name="purpose" rows="3" required placeholder="e.g. credential verification for employment / registration"></textarea>
+        </label>
+        <label class="consent">
+          <input type="checkbox" name="consent" required />
+          I confirm these details are accurate and will be used only to record this download request.
+        </label>
+        <button class="btn btn-primary" type="submit">Submit and download</button>
+        <p class="form-note" data-download-note hidden></p>
+      </form>
+    </div>
+  </div>
 
   <script src="script.js"></script>
 </body>

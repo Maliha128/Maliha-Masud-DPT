@@ -2,8 +2,11 @@ source-documents
 .git
 *.pdf
 !assets/Maliha_Masud_DPT_Physiotherapist_CV.pdf
+!assets/credentials/*.pdf
 !website/assets/Maliha_Masud_DPT_Physiotherapist_CV.pdf
+!website/assets/credentials/*.pdf
 !docs/assets/Maliha_Masud_DPT_Physiotherapist_CV.pdf
+!docs/assets/credentials/*.pdf
 .DS_Store
 node_modules
 agent-transcripts

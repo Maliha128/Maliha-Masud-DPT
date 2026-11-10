@@ -6,5 +6,8 @@ source-documents/
 *.pdf
 !website/**
 !assets/Maliha_Masud_DPT_Physiotherapist_CV.pdf
+!assets/credentials/*.pdf
 !docs/assets/Maliha_Masud_DPT_Physiotherapist_CV.pdf
+!docs/assets/credentials/*.pdf
 .vercel
+.env*
